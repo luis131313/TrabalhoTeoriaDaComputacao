@@ -1,5 +1,6 @@
 # Trabalho Final - Teoria Da Computação
 Trabalho Final referente a disciplina de Teoria da Computação.
+Universidade Federal de Lavras.
 
 ## ✒️ Autores
 
