@@ -6,4 +6,4 @@ Universidade Federal de Lavras.
 ## ✒️ Autores
 
 - **Luis Ferreira** - [luis131313](https://github.com/luis131313)
-- - **Matheus Silva** - [matheusGonks](https://github.com/matheusGonks)
+- **Matheus Silva** - [matheusGonks](https://github.com/matheusGonks)
